@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p>
 <a href="https://www.instagram.com/akykrish/"><img src="https://img.shields.io/badge/-akykrish-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ahalya495@gmail.com"><img src="https://img.shields.io/badge/-ahalya495-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/akykrish/">
