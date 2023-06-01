@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hi there 👋 I'm Ahalya </h2>
 <div id="header" align="center">
-  <img src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?w=740&t=st=1685639170~exp=1685639770~hmac=72b19d69923ffe7f82940ef69fbb2c31bfbf44e7b45277dac4ae89f6695b819e" width="300" height ="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height ="200"/>
 </div>
 
 <br>
