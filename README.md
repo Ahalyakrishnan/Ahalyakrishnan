@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/akykrish/"><img src="https://img.shields.io/badge/-akykrish-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ahalya495@gmail.com"><img src="https://img.shields.io/badge/-ahalya495-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/akykrish/">
-    <img src="https://img.shields.io/badge/Instagram-Orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height="10" width="20"/>
   </a>
 </p>
 
