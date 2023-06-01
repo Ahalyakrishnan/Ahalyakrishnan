@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hi there 👋 I'm Ahalya </h2>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="300" height ="200"/>
+  <img src="https://media.giphy.com/media/qdiJ1fqlfWhunQhi3J/giphy.gif" width="300" height ="200"/>
 </div>
 
 <br>
 
 
-
-:woman_technologist: I am a Full Stack Developer 
+<img src="https://komarev.com/ghpvc/?username=Ahalyakrishnan&style=flat-square&color=blue" align="center" alt="profile count"/>
+<br> 
+:woman_technologist: I am a Full Stack Developer <br>
 ✉️ &nbsp;You can shoot me an email at ahalya495@gmail.com
 
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=Ahalyakrishnan&style=flat-square&color=blue" align="center" alt="profile count"/>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
