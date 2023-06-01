@@ -16,24 +16,29 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">Hi there 👋 I'm Ahalya </h2>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="300" height ="200"/>
 </div>
-<br><br>
-<center>
-<img src="https://komarev.com/ghpvc/?username=Ahalyakrishnan&style=flat-square&color=blue" align="center" alt="profile count"/>
-</center>
+
 <br>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ahalya-r/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
----
-:woman_technologist: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-✉️ &nbsp;You can shoot me an email at ahalya495.com! I'll try to respond as soon as I can.
----
+
+
+
+:woman_technologist: I am a Full Stack Developer 
+✉️ &nbsp;You can shoot me an email at ahalya495@gmail.com
+
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=Ahalyakrishnan&style=flat-square&color=blue" align="center" alt="profile count"/>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.instagram.com/akykrish/"><img src="https://img.shields.io/badge/-akykrish-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ahalya495@gmail.com"><img src="https://img.shields.io/badge/-mithunvinayak10-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/akykrish"><img src="https://img.shields.io/badge/@___fierce___spartan___-E4405F
+  style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
+
 
 ### :hammer_and_wrench: Languages and Tools :
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
