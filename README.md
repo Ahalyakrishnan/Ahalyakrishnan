@@ -27,6 +27,6 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://www.instagram.com/akykrish">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
