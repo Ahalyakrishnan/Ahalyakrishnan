@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 <br><br>
 <center>
 <img src="https://komarev.com/ghpvc/?username=Ahalyakrishnan&style=flat-square&color=blue" align="center" alt="profile count"/>
-</center><br>
+</center>
+<br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ahalya-r/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -31,6 +32,7 @@ Here are some ideas to get you started:
 </div>
 ---
 :woman_technologist: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+✉️ &nbsp;You can shoot me an email at ahalya495.com! I'll try to respond as soon as I can.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
