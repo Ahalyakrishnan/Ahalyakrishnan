@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Ahalyakrishnan/Ahalyakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<center>
+<h2>Hi there 👋 I'm Ahalya </h2>
+ </center>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="300" height ="200"/>
 </div>
